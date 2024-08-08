@@ -28,4 +28,3 @@ try:
     print("The division of the two numbers are " + str(Division))
 except ZeroDivisionError:
     print("I cannot be divided by zero")
-print("The multiplication of the two numbers are " + str(Multiplication))
