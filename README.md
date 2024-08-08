@@ -36,3 +36,19 @@ try:
 except ZeroDivisionError:
     print("I cannot be divided by zero")
 ```
+
+```python
+import sys
+try:
+    num1 = int(input("Enter the first number"))
+    num2 = int(input("Enter the second number"))
+except: 
+    print("Stupid human give me a proper number not a bullshit")
+    sys.exit()
+Addition = num1 + num2
+print("The addition of the two numbers are " + str(Addition))
+```
+
+The above is a snippet of code for my calculator.
+
+
