@@ -40,3 +40,8 @@ jobs:
         29
         5
         EOF
+
+        python3 simple_calculator.py << EOF
+        2
+        0
+        EOF
