@@ -2,9 +2,9 @@
 
 ## First code
 
-This is a repository where I am trying my first codes in Python.
+This is a repository where I am trying my first codes in Python
 
-This is a calculator I have made in python as my first project.
+This is a calculator I have made in python as my first project
 
 ```python
 #Addition
@@ -38,4 +38,11 @@ try:
 except ZeroDivisionError:
     print("I cannot be divided by zero")
 ```
+Well this is one of my first projects and I am thinking I have actually made something big
+
+This website is currently not that big as I dont know Python fully . This website will get edited and updated
+
+
+all credits goes to Arnish and a mysterious man
+
 
